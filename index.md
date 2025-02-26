@@ -2,7 +2,7 @@
 title: "Yong-Jie Liu"
 author: "Yong-Jie Liu"
 description: "Master at National Yang Ming Chiao Tung University"
-theme:  jekyll-theme-minimal # Change theme if needed
+theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
 # Yong-Jie Liu 劉永傑
