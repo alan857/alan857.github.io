@@ -29,6 +29,7 @@
 </head>
 <body>
     <div class="container">
+        <img src="![自己拍的](https://github.com/user-attachments/assets/d4e1eeec-47ee-4fa5-85cd-dd1542a6f144)" alt="My Photo" width="150" height="150" style="border-radius: 50%; border: 3px solid #ffcc00;">
         <h1>About Me</h1>
         <p>Hello! I am a first-year master's student in the Information Management and Finance Department at National Yang Ming Chiao Tung University. I am passionate about the intersection of finance and technology.</p>
         
