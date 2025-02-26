@@ -8,7 +8,7 @@ theme:  jekyll-theme-minimal # Change theme if needed
 # Yong-Jie Liu 劉永傑
 
 ## Biography
-![Yong-Jie Liu](![My Profile Picture](images/profile.jpg)){: style="width: 250px; float: right; margin-left: 20px;"}
+![Yong-Jie Liu]((images/profile.jpg)){: style="width: 250px; float: right; margin-left: 20px;"}
 
 I am a first-year master's student at National Yang Ming Chiao Tung University, majoring in Information Management and Finance. I have a strong interest in stock markets and industry research.
 
